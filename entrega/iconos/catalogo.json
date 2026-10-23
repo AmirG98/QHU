@@ -1,0 +1,50 @@
+{
+  "suspension": {
+    "label": "Amortiguadores",
+    "file": "suspension.svg"
+  },
+  "distribution": {
+    "label": "Distribución",
+    "file": "distribution.svg"
+  },
+  "service": {
+    "label": "Service",
+    "file": "service.svg"
+  },
+  "brakes": {
+    "label": "Frenos",
+    "file": "brakes.svg"
+  },
+  "tires": {
+    "label": "Neumáticos",
+    "file": "tires.svg"
+  },
+  "battery": {
+    "label": "Batería",
+    "file": "battery.svg"
+  },
+  "cooling": {
+    "label": "Refrigeración",
+    "file": "cooling.svg"
+  },
+  "lights": {
+    "label": "Iluminación",
+    "file": "lights.svg"
+  },
+  "filter": {
+    "label": "Filtros",
+    "file": "filter.svg"
+  },
+  "ignition": {
+    "label": "Encendido",
+    "file": "ignition.svg"
+  },
+  "transmission": {
+    "label": "Transmisión",
+    "file": "transmission.svg"
+  },
+  "wipers": {
+    "label": "Limpiaparabrisas",
+    "file": "wipers.svg"
+  }
+}
